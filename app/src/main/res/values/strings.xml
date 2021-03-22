@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">KeepItNoted</string>
+    <string name="new_note">New note</string>
+    <string name="save_note">Save note</string>
+    <string name="note_title">Note title</string>
+    <string name="note_itself_here">The note itself goes in this field</string>
 </resources>
